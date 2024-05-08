@@ -10,6 +10,7 @@ Course code of ME112 2024 Spring: Introduction to MATLAB, SUSTech. Taught by Yan
 | [Homework 1](Homework1/)       | 100/100 |
 | [Homework 2](Homework2/)       | 98/100  |
 | [Homework 3](Homework3/)       | 100/100 |
+| [Homework 4](Homework4/)       | 100/100 |
 
 ### Example
 
